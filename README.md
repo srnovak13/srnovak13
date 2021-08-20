@@ -5,6 +5,6 @@ In my professional life, I have been a chef for the past several years. Creating
 I hope you enjoy my projects, both current and upcoming!
 
 ## Contact
-*[LinkedIn](https://www.linkedin.com/in/steven-novak-422a2390/)
-*[Twitter](https://twitter.com/srnovak13)
-*[Website](https://srnovak13.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/steven-novak-422a2390/)
+* [Twitter](https://twitter.com/srnovak13)
+* [Website](https://srnovak13.github.io/)
